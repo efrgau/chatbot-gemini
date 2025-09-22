@@ -2,3 +2,7 @@
 *.env
 __pycache__/
 .venv-gemini-2/
+*.log
+.DS_Store
+.vscode/
+.idea/
